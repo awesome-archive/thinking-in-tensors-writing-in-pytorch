@@ -11,6 +11,12 @@ By [Piotr Migdał](https://p.migdal.pl/) et al. (Weronika Ormaniec, possibly oth
 
 > “Scientists start out doing work that's perfect, in the sense that they're just trying to reproduce work someone else has already done for them. Eventually, they get to the point where they can do original work. Whereas hackers, from the start, are doing original work; it's just very bad. So hackers start original, and get good, and scientists start good, and get original.” - Paul Graham in [Hackers and Painters](http://www.paulgraham.com/hp.html)
 
+## Supporters
+
+This project supported by: [Jacek Migdał](http://jacek.migdal.pl/), [Marek Cichy](https://medium.com/@marekkcichy/). [Join the sponsors - show your ❤️ and support](https://github.com/sponsors/stared)! It will give me time and energy to work on this project!
+
+This project benefited from [University of Silesia in Katowice](http://english.us.edu.pl/) course, which they let me to open source.
+
 ## What's that?
 
 Mathematical concepts behind deep learning using PyTorch 1.0.
@@ -35,7 +41,7 @@ Of course, there are quite a few awesome posts, notebooks and visualizations. I 
 
 ## Contribute!
 
-Crucially, this course is for you, the reader. If you are interested in one topic, let us know! There is nothing more inspiring that eager readers.
+Crucially, this course is for you, the reader. If you are interested in one topic, let us know! There is nothing more inspiring that eager readers. 
 
 
 ## Style
@@ -50,7 +56,10 @@ Crucially, this course is for you, the reader. If you are interested in one topi
 
 A few links of mine:
 
+* [Learning deep learning wth Keras](https://p.migdal.pl/2017/04/30/teaching-deep-learning.html) - an overview of deep learning (what's that? what one should learn before); post from 2017 but surprisingly up-to-date
 * My deep learning framework credo: [Keras or PyTorch as your first deep learning framework](https://deepsense.ai/keras-or-pytorch/)
 * [Keras vs. PyTorch: Alien vs. Predator recognition with transfer learning ](https://deepsense.ai/keras-vs-pytorch-avp-transfer-learning/)
 * [My general overview of “how to start data science”](https://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html) (turns out - not only for math/phys background; though, I intend to write a separate text for non-STEM backgrounds)
+* [Quantum Tensors](https://github.com/stared/quantum-tensors) - a JavaScript / TypeScript package for sparse tensor operations on complex numbers. For example for quantum computing, quantum information, and well - the Quantum Game.
+* [Simple diagrams of convoluted neural networks](https://medium.com/inbrowserai/simple-diagrams-of-convoluted-neural-networks-39c097d2925b) - on deep learning architecture visualizations
 * I am an independent AI consultant, specializing in giving hands-on trainings in deep learning (and general machine learning). If you are interested in a workshop, let me know at [p.migdal.pl](https://p.migdal.pl/)!
